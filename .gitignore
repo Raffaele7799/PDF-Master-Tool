@@ -1,0 +1,16 @@
+# File Temporanei Python
+__pycache__/
+*.py[cod]
+
+# File di Compilazione EXE
+build/
+dist/
+*.spec
+
+# File Eseguibili e DLL (Non caricarli nel codice!)
+*.exe
+*.dll
+*.zip
+
+# Impostazioni Editor (VS Code)
+.vscode/
